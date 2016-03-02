@@ -1,0 +1,7 @@
+C:\Users\mordyit\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\FTP_Uploader.exe
+C:\Users\mordyit\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\FTP_Uploader.pdb
+C:\Users\mordyit\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\mordyit\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\FTP_Uploader.Properties.Resources.resources
+C:\Users\mordyit\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\FTP_Uploader.csproj.GenerateResource.Cache
+C:\Users\mordyit\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\FTP_Uploader.exe
+C:\Users\mordyit\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\FTP_Uploader.pdb
